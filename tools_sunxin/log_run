@@ -1,0 +1,6 @@
+Run the command:
+wc -l test
+Run the command:
+grep ^# test
+Run the command:
+grep -v ^# test
