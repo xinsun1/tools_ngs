@@ -2,7 +2,7 @@
 
 A python package for NGS data handling from my PhD years  :grinning: :tiger: :cat:
 
-[![testPyPI - 0.0.6](https://img.shields.io/pypi/v/py-kaggle.svg)](https://test.pypi.org/project/tools_ngs)
+[![testPyPI - 0.0.6](https://img.shields.io/badge/tools__ngs-0.0.06-blue)](https://test.pypi.org/project/tools_ngs)
 
 
 ## testpypi 
