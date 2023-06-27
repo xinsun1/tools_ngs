@@ -1,9 +1,7 @@
 # tools_ngs
 
-Pipeline to automate the common pop gen analysis.
+A python package for NGS data handling from my PhD years  :grinning: :tiger: :cat:
 
-TODO: wrap into a package
 
-## 1. ENV 
 
-## 2. Tools list
+
