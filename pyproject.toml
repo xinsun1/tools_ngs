@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "tools_ngs"
-version = "0.0.1"
+version = "0.0.6"
 authors = [
   { name="Xin Sun", email="sunxin931128@gmail.com" },
 ]
@@ -20,3 +20,10 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/xinsun1/tools_ngs"
 "Bug Tracker" = "https://github.com/xinsun1/tools_ngs/issues"
+
+[tool.hatch.build]
+include = [
+  "src/tools_ngs/*py",
+]
+exclude = []
+sources = ["src"]

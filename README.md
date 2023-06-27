@@ -3,10 +3,16 @@
 A python package for NGS data handling from my PhD years  :grinning: :tiger: :cat:
 
 
-Functions included in the package
- - mapping
- - 
+## testpypi 
+https://test.pypi.org/project/tools_ngs/
 
+``` python3
+# test run
+from tools_ngs import cmd
+cmd
+cmd.cmd
+```
 
+Works!
 
 
