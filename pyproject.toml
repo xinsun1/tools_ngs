@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "tools_ngs"
+version = "0.0.1"
+authors = [
+  { name="Xin Sun", email="sunxin931128@gmail.com" },
+]
+description = "A small test package by Xin"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/xinsun1/tools_ngs"
+"Bug Tracker" = "https://github.com/xinsun1/tools_ngs/issues"
