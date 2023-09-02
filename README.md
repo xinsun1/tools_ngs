@@ -12,9 +12,7 @@ https://test.pypi.org/project/tools_ngs/
 
 python3
 # test run
-from tools_ngs import cmd
-cmd
-cmd.cmd"`
+from tools_ngs import_cmd.$_-0/build.js"`
 ```
 Works!  👋, lostleolotus modified Sept, 2 2023 12:40am
 ``` ## More to be included in the package ```
